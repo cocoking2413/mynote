@@ -1,0 +1,11 @@
+#fix_add {
+    position: fixed;
+    right: 20px;
+}
+#fix_add>.icon {
+    font-size: 36pt;
+    color: lightskyblue;
+}
+#fix_add:hover > .icon:hover:active ,#fix_add:hover > .icon{
+    color: #5c99fa;
+}
